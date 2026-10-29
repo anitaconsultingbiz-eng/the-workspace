@@ -1,0 +1,15 @@
+# Personal documents — never publish
+*.docx
+*.doc
+*.pdf
+*.pages
+*.rtf
+*.txt
+*.odt
+
+# Mac system files
+.DS_Store
+
+# Local environment files
+.env
+.env.*
